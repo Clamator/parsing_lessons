@@ -1,0 +1,56 @@
+Index: ../FirstProject/.idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectModuleManager\">\r\n    <modules>\r\n      <module fileurl=\"file://$PROJECT_DIR$/.idea/FirstProject.iml\" filepath=\"$PROJECT_DIR$/.idea/FirstProject.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/../GIT/.idea/GIT.iml\" filepath=\"$PROJECT_DIR$/../GIT/.idea/GIT.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/../MultyAsyncParallel/.idea/MultyAsyncParallel.iml\" filepath=\"$PROJECT_DIR$/../MultyAsyncParallel/.idea/MultyAsyncParallel.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/../Parsing/.idea/Parsing.iml\" filepath=\"$PROJECT_DIR$/../Parsing/.idea/Parsing.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/../git_test2/.idea/git_test2.iml\" filepath=\"$PROJECT_DIR$/../git_test2/.idea/git_test2.iml\" />\r\n    </modules>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../FirstProject/.idea/modules.xml b/../FirstProject/.idea/modules.xml
+--- a/../FirstProject/.idea/modules.xml	(revision 73349557672a73b7d8c4f9f7c1119b0188e8af2a)
++++ b/../FirstProject/.idea/modules.xml	(date 1638601336812)
+@@ -2,6 +2,7 @@
+ <project version="4">
+   <component name="ProjectModuleManager">
+     <modules>
++      <module fileurl="file://$PROJECT_DIR$/../Codewars/.idea/Codewars.iml" filepath="$PROJECT_DIR$/../Codewars/.idea/Codewars.iml" />
+       <module fileurl="file://$PROJECT_DIR$/.idea/FirstProject.iml" filepath="$PROJECT_DIR$/.idea/FirstProject.iml" />
+       <module fileurl="file://$PROJECT_DIR$/../GIT/.idea/GIT.iml" filepath="$PROJECT_DIR$/../GIT/.idea/GIT.iml" />
+       <module fileurl="file://$PROJECT_DIR$/../MultyAsyncParallel/.idea/MultyAsyncParallel.iml" filepath="$PROJECT_DIR$/../MultyAsyncParallel/.idea/MultyAsyncParallel.iml" />
+Index: ../FirstProject/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"VcsDirectoryMappings\">\r\n    <mapping directory=\"$PROJECT_DIR$\" vcs=\"Git\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../FirstProject/.idea/vcs.xml b/../FirstProject/.idea/vcs.xml
+--- a/../FirstProject/.idea/vcs.xml	(revision 73349557672a73b7d8c4f9f7c1119b0188e8af2a)
++++ b/../FirstProject/.idea/vcs.xml	(date 1638125933146)
+@@ -2,5 +2,8 @@
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+     <mapping directory="$PROJECT_DIR$" vcs="Git" />
++    <mapping directory="$PROJECT_DIR$/../GIT" vcs="Git" />
++    <mapping directory="$PROJECT_DIR$/../MultyAsyncParallel" vcs="Git" />
++    <mapping directory="$PROJECT_DIR$/../Parsing" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: ../FirstProject/.idea/FirstProject.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"PYTHON_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\">\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <excludeFolder url=\"file://$MODULE_DIR$/venv\" />\r\n    </content>\r\n    <orderEntry type=\"jdk\" jdkName=\"Python 3.9 (FirstProject)\" jdkType=\"Python SDK\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n    <orderEntry type=\"module\" module-name=\"MultyAsyncParallel\" />\r\n    <orderEntry type=\"module\" module-name=\"Parsing\" />\r\n    <orderEntry type=\"module\" module-name=\"GIT\" />\r\n    <orderEntry type=\"module\" module-name=\"git_test2\" />\r\n  </component>\r\n  <component name=\"PyNamespacePackagesService\">\r\n    <option name=\"namespacePackageFolders\">\r\n      <list>\r\n        <option value=\"$MODULE_DIR$/src\" />\r\n        <option value=\"$MODULE_DIR$/hangman\" />\r\n        <option value=\"$MODULE_DIR$/tof/data\" />\r\n        <option value=\"$MODULE_DIR$/true_or_false/data\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../FirstProject/.idea/FirstProject.iml b/../FirstProject/.idea/FirstProject.iml
+--- a/../FirstProject/.idea/FirstProject.iml	(revision 73349557672a73b7d8c4f9f7c1119b0188e8af2a)
++++ b/../FirstProject/.idea/FirstProject.iml	(date 1638601336802)
+@@ -10,6 +10,7 @@
+     <orderEntry type="module" module-name="Parsing" />
+     <orderEntry type="module" module-name="GIT" />
+     <orderEntry type="module" module-name="git_test2" />
++    <orderEntry type="module" module-name="Codewars" />
+   </component>
+   <component name="PyNamespacePackagesService">
+     <option name="namespacePackageFolders">
