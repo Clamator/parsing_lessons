@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Codewars/.idea/Codewars.iml" filepath="$PROJECT_DIR$/../Codewars/.idea/Codewars.iml" />
       <module fileurl="file://$PROJECT_DIR$/../FirstProject/.idea/FirstProject.iml" filepath="$PROJECT_DIR$/../FirstProject/.idea/FirstProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GIT/.idea/GIT.iml" filepath="$PROJECT_DIR$/../GIT/.idea/GIT.iml" />
+      <module fileurl="file://$USER_HOME$/JupyterRoot/.idea/JupyterRoot.iml" filepath="$USER_HOME$/JupyterRoot/.idea/JupyterRoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/../MultyAsyncParallel/.idea/MultyAsyncParallel.iml" filepath="$PROJECT_DIR$/../MultyAsyncParallel/.idea/MultyAsyncParallel.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Parsing.iml" filepath="$PROJECT_DIR$/.idea/Parsing.iml" />
     </modules>

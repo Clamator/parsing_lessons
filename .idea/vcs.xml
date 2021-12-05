@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../Codewars" vcs="Git" />
+    <mapping directory="$USER_HOME$/JupyterRoot" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../FirstProject" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../GIT" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../MultyAsyncParallel" vcs="Git" />
