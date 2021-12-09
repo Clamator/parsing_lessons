@@ -7,5 +7,6 @@
     <mapping directory="$PROJECT_DIR$/../GIT" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../MultyAsyncParallel" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../headhunter_job_searcher" vcs="Git" />
   </component>
 </project>

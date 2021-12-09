@@ -8,6 +8,7 @@
       <module fileurl="file://$USER_HOME$/JupyterRoot/.idea/JupyterRoot.iml" filepath="$USER_HOME$/JupyterRoot/.idea/JupyterRoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/../MultyAsyncParallel/.idea/MultyAsyncParallel.iml" filepath="$PROJECT_DIR$/../MultyAsyncParallel/.idea/MultyAsyncParallel.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Parsing.iml" filepath="$PROJECT_DIR$/.idea/Parsing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../headhunter_job_searcher/.idea/headhunter_job_searcher.iml" filepath="$PROJECT_DIR$/../headhunter_job_searcher/.idea/headhunter_job_searcher.iml" />
     </modules>
   </component>
 </project>
