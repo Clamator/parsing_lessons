@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="changed &quot;find_element....&quot; according to last updates">
-      <change afterPath="$PROJECT_DIR$/../headhunter_job_searcher/hh_load_cookies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../headhunter_job_searcher/hh_save_cookies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/src/ORM_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstProject/src/ORM_test.py" afterDir="false" />
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="some updates and new files for hh job searcher project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/013_parsing_with_authorization_req.py" beforeDir="false" afterPath="$PROJECT_DIR$/013_parsing_with_authorization_req.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/013_try_add_disc_to_cart_sel.py" beforeDir="false" afterPath="$PROJECT_DIR$/013_try_add_disc_to_cart_sel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/015_1_save_cookies.py" beforeDir="false" afterPath="$PROJECT_DIR$/015_1_save_cookies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/015_2_load_cookies.py" beforeDir="false" afterPath="$PROJECT_DIR$/015_2_load_cookies.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/session" beforeDir="false" afterPath="$PROJECT_DIR$/session_discogs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../headhunter_job_searcher/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../headhunter_job_searcher/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../headhunter_job_searcher/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../headhunter_job_searcher/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -231,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639126706961</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="some updates and new files for hh job searcher project">
+      <created>1639134967041</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1639134967041</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,6 +253,7 @@
     <MESSAGE value="add to .gitignore" />
     <MESSAGE value="add to .gitignore&#10;first commit" />
     <MESSAGE value="changed &quot;find_element....&quot; according to last updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed &quot;find_element....&quot; according to last updates" />
+    <MESSAGE value="some updates and new files for hh job searcher project" />
+    <option name="LAST_COMMIT_MESSAGE" value="some updates and new files for hh job searcher project" />
   </component>
 </project>
