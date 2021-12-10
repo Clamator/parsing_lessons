@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="other updates in main script">
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="adding new functions in main">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../headhunter_job_searcher/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../headhunter_job_searcher/main.py" afterDir="false" />
     </list>
@@ -236,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639145902048</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="adding new functions in main">
+      <created>1639156636273</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1639156636273</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,6 +268,7 @@
     <MESSAGE value="changed &quot;find_element....&quot; according to last updates" />
     <MESSAGE value="some updates and new files for hh job searcher project" />
     <MESSAGE value="other updates in main script" />
-    <option name="LAST_COMMIT_MESSAGE" value="other updates in main script" />
+    <MESSAGE value="adding new functions in main" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding new functions in main" />
   </component>
 </project>
