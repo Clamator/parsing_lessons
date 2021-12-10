@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="hz" />
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="changed &quot;find_element....&quot; according to last updates">
+      <change afterPath="$PROJECT_DIR$/../headhunter_job_searcher/hh_load_cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headhunter_job_searcher/hh_save_cookies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstProject/src/ORM_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstProject/src/ORM_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/013_parsing_with_authorization_req.py" beforeDir="false" afterPath="$PROJECT_DIR$/013_parsing_with_authorization_req.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/013_try_add_disc_to_cart_sel.py" beforeDir="false" afterPath="$PROJECT_DIR$/013_try_add_disc_to_cart_sel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/015_1_save_cookies.py" beforeDir="false" afterPath="$PROJECT_DIR$/015_1_save_cookies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/015_2_load_cookies.py" beforeDir="false" afterPath="$PROJECT_DIR$/015_2_load_cookies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session" beforeDir="false" afterPath="$PROJECT_DIR$/session_discogs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../headhunter_job_searcher/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../headhunter_job_searcher/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../headhunter_job_searcher/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../headhunter_job_searcher/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../headhunter_job_searcher" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1zDR6AD6F5OB0ukdH42rBahYpPC" />
@@ -31,19 +43,19 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Python.main">
-    <configuration name="01_00_first_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MultyAsyncParallel" />
+    <configuration name="015_1_save_cookies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Parsing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MultyAsyncParallel/asyncio" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../MultyAsyncParallel/asyncio/01_00_first_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/015_1_save_cookies.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -52,40 +64,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01_01_event_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MultyAsyncParallel" />
+    <configuration name="015_2_load_cookies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Parsing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MultyAsyncParallel/asyncio" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../MultyAsyncParallel/asyncio/01_01_event_loop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="01_async_aiohttp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MultyAsyncParallel" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MultyAsyncParallel/asyncio" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../MultyAsyncParallel/asyncio/01_async_aiohttp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/015_2_load_cookies.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,6 +106,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hh_load_cookies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="headhunter_job_searcher" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../headhunter_job_searcher" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../headhunter_job_searcher/hh_load_cookies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hh_save_cookies (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="headhunter_job_searcher" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../headhunter_job_searcher" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../headhunter_job_searcher/hh_save_cookies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="headhunter_job_searcher" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,35 +169,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_for_test_new.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Parsing" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_for_test_new.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.01_00_first_example" />
-      <item itemvalue="Python.01_01_event_loop" />
-      <item itemvalue="Python.01_async_aiohttp" />
-      <item itemvalue="Python tests.Python tests in test_for_test_new.py" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.015_2_load_cookies" />
+      <item itemvalue="Python.015_1_save_cookies" />
+      <item itemvalue="Python.hh_save_cookies (1)" />
+      <item itemvalue="Python.hh_load_cookies" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.01_async_aiohttp" />
-        <item itemvalue="Python.01_01_event_loop" />
-        <item itemvalue="Python.01_00_first_example" />
-        <item itemvalue="Python tests.Python tests in test_for_test_new.py" />
+        <item itemvalue="Python.hh_load_cookies" />
+        <item itemvalue="Python.hh_save_cookies (1)" />
+        <item itemvalue="Python.015_1_save_cookies" />
+        <item itemvalue="Python.015_2_load_cookies" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +203,35 @@
       <option name="project" value="LOCAL" />
       <updated>1639055412083</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hz">
+      <created>1639055743244</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639055743244</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add to .gitignore">
+      <created>1639055915253</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639055915253</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add to .gitignore&#10;first commit">
+      <created>1639056014823</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639056014823</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changed &quot;find_element....&quot; according to last updates">
+      <created>1639126706961</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1639126706961</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +251,9 @@
       <path value="$PROJECT_DIR$/../Codewars" />
     </ignored-roots>
     <MESSAGE value="hz" />
-    <option name="LAST_COMMIT_MESSAGE" value="hz" />
+    <MESSAGE value="add to .gitignore" />
+    <MESSAGE value="add to .gitignore&#10;first commit" />
+    <MESSAGE value="changed &quot;find_element....&quot; according to last updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed &quot;find_element....&quot; according to last updates" />
   </component>
 </project>

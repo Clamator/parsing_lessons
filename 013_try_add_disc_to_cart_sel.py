@@ -6,7 +6,7 @@ from multiprocessing import Pool
 # https://intoli.com/blog/not-possible-to-block-chrome-headless/chrome-headless-test.html
 from selenium.webdriver.common.by import By
 
-discogs_login_page = "https://discogs.com/login"
+
 
 
 class TestFunc(object):
@@ -20,7 +20,7 @@ class TestFunc(object):
         self.driver = webdriver.Chrome(chrome_options=option)
         self.driver.get(discogs_login_page)
 
-    def login(self, username, password):
+    def login(self):
         # email_field = self.driver.find_element_by_id("username")
         # email_field.send_keys(username)
         # sleep(1)
@@ -32,7 +32,7 @@ class TestFunc(object):
         # sleep(0.5)
         # это список дисков
         self.driver.get('https://www.discogs.com/ru/sell/list?master_id=484900&ev=mb')
-        for cookies in pickle.load(open('session', 'rb')):
+        for cookies in pickle.load(open('session_discogs', 'rb')):
             self.driver.add_cookie(cookies)
         self.driver.refresh()
         # это ссылка на мою коллекцию v
@@ -66,9 +66,8 @@ class TestFunc(object):
 
 
 if __name__ == '__main__':
-    username = 'Clamator'
-    password = 'Munroe23'
-    TestFunc().login(username, password)
+    discogs_login_page = "https://discogs.com/login"
+    TestFunc().login()
 
 # driver.get(url=url) #В переменной url ваша страница
 # driver.implicitly_wait(5) #В скобках количество секунд ожидания, если страница подгрузится быстрей то ожидание прервется и код продолжит выполнятся

@@ -1,6 +1,6 @@
 from fake_user_agent.main import user_agent
 import requests
-from bs4 import BeautifulSoup
+    from bs4 import BeautifulSoup
 import csv
 
 
