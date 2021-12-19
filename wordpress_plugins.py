@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import csv
-
+import datetime
 
 def get_html(url):
     resp = requests.get(url)
