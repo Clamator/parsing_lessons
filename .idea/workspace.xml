@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="hz">
-      <change beforePath="$PROJECT_DIR$/../hh_searcher/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hh_searcher/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Parsing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Parsing.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_05_12_2021_16_06_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_05_12_2021_16_06__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="send a letter and hit &quot;send respond&quot; - 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordpress_plugins.py" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress_plugins.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../headhunter_job_searcher/test_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/../headhunter_job_searcher/test_file.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +18,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../hh_searcher" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../headhunter_job_searcher" />
     <option name="ROOT_SYNC" value="SYNC" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1zDR6AD6F5OB0ukdH42rBahYpPC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -42,7 +33,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../headhunter_job_searcher" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.test_file">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Parsing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,8 +41,8 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Program Files\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="SDK_HOME" value="C:\Users\User\PycharmProjects\FirstProject\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../Program Files (x86)/Python39" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -64,19 +55,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hh_save_cookies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="headhunter_job_searcher" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../headhunter_job_searcher" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../headhunter_job_searcher/hh_save_cookies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="hh_searcher" />
+      <module name="headhunter_job_searcher" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Program Files\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../hh_searcher" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../headhunter_job_searcher" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../hh_searcher/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../headhunter_job_searcher/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,52 +97,84 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_ekatalog" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="save_pics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Parsing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Program Files\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_ekatalog.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in test_for_test_new.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Parsing" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_for_test_new.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/save_pics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="headhunter_job_searcher" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../headhunter_job_searcher" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../headhunter_job_searcher/test_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_for_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="headhunter_job_searcher" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../headhunter_job_searcher" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../headhunter_job_searcher/test_for_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.test_ekatalog" />
-      <item itemvalue="Python tests.Python tests in test_for_test_new.py" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.save_pics" />
+      <item itemvalue="Python.test_file" />
+      <item itemvalue="Python.test_for_test" />
+      <item itemvalue="Python.hh_save_cookies" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_file" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.test_ekatalog" />
-        <item itemvalue="Python tests.Python tests in test_for_test_new.py" />
+        <item itemvalue="Python.hh_save_cookies" />
+        <item itemvalue="Python.test_for_test" />
+        <item itemvalue="Python.save_pics" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +194,126 @@
       <option name="project" value="LOCAL" />
       <updated>1639055412083</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hz">
+      <created>1639055743244</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639055743244</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add to .gitignore">
+      <created>1639055915253</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639055915253</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add to .gitignore&#10;first commit">
+      <created>1639056014823</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639056014823</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changed &quot;find_element....&quot; according to last updates">
+      <created>1639126706961</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1639126706961</updated>
+    </task>
+    <task id="LOCAL-00006" summary="some updates and new files for hh job searcher project">
+      <created>1639134967041</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1639134967041</updated>
+    </task>
+    <task id="LOCAL-00007" summary="other updates in main script">
+      <created>1639145902048</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1639145902048</updated>
+    </task>
+    <task id="LOCAL-00008" summary="adding new functions in main">
+      <created>1639156636273</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1639156636273</updated>
+    </task>
+    <task id="LOCAL-00009" summary="adding new functions in main">
+      <created>1639157778466</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1639157778466</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1st vacancy name test">
+      <created>1639482650752</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1639482650752</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit before pagination testing">
+      <created>1639492525068</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1639492525068</updated>
+    </task>
+    <task id="LOCAL-00012" summary="pagination complete, next - csv function">
+      <created>1639559993176</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1639559993176</updated>
+    </task>
+    <task id="LOCAL-00013" summary="working model before main function">
+      <created>1639566806307</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1639566806307</updated>
+    </task>
+    <task id="LOCAL-00014" summary="working model before main function - 2">
+      <created>1639567881750</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1639567881750</updated>
+    </task>
+    <task id="LOCAL-00015" summary="working model before main function - 3">
+      <created>1639568409114</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1639568409114</updated>
+    </task>
+    <task id="LOCAL-00016" summary="send a letter and hit &quot;send respond&quot;">
+      <created>1639582298503</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1639582298504</updated>
+    </task>
+    <task id="LOCAL-00017" summary="send a letter and hit &quot;send respond&quot;">
+      <created>1639583120775</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1639583120775</updated>
+    </task>
+    <task id="LOCAL-00018" summary="send a letter and hit &quot;send respond&quot; - 3">
+      <created>1639583928165</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1639583928165</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,17 +326,27 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/../Codewars" />
-      <path value="$USER_HOME$/JupyterRoot" />
-      <path value="$PROJECT_DIR$/../FirstProject" />
-      <path value="$PROJECT_DIR$/../GIT" />
-      <path value="$PROJECT_DIR$/../MultyAsyncParallel" />
-      <path value="$PROJECT_DIR$/../headhunter_job_searcher" />
     </ignored-roots>
     <MESSAGE value="hz" />
-    <option name="LAST_COMMIT_MESSAGE" value="hz" />
+    <MESSAGE value="add to .gitignore" />
+    <MESSAGE value="add to .gitignore&#10;first commit" />
+    <MESSAGE value="changed &quot;find_element....&quot; according to last updates" />
+    <MESSAGE value="some updates and new files for hh job searcher project" />
+    <MESSAGE value="other updates in main script" />
+    <MESSAGE value="adding new functions in main" />
+    <MESSAGE value="1st vacancy name test" />
+    <MESSAGE value="commit before pagination testing" />
+    <MESSAGE value="pagination complete, next - csv function" />
+    <MESSAGE value="working model before main function" />
+    <MESSAGE value="working model before main function - 2" />
+    <MESSAGE value="working model before main function - 3" />
+    <MESSAGE value="send a letter and hit &quot;send respond&quot;" />
+    <MESSAGE value="send a letter and hit &quot;send respond&quot; - 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="send a letter and hit &quot;send respond&quot; - 3" />
   </component>
 </project>
