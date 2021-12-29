@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="tkinter testing 3">
-      <change afterPath="$PROJECT_DIR$/../tkinter/1_test_grid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/2_entry_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/3_calculator.py" afterDir="false" />
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="tkinter testing 4">
+      <change afterPath="$PROJECT_DIR$/../tkinter/4_checkbutton.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/3_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/3_calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/funcs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/funcs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/lection.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/lection.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,28 +37,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../headhunter_job_searcher" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.3_calculator">
-    <configuration name="1_test_grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tkinter" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/1_test_grid.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.4_checkbutton">
     <configuration name="2_entry_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,6 +72,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/3_calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4_checkbutton" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/4_checkbutton.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,19 +143,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tkinter" />
+    <configuration name="save_pics_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Parsing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/save_pics_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,19 +166,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.1_test_grid" />
-      <item itemvalue="Python.funcs" />
-      <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.2_entry_test" />
       <item itemvalue="Python.3_calculator" />
+      <item itemvalue="Python.save_pics_4" />
+      <item itemvalue="Python.funcs" />
+      <item itemvalue="Python.4_checkbutton" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4_checkbutton" />
         <item itemvalue="Python.3_calculator" />
         <item itemvalue="Python.2_entry_test" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.1_test_grid" />
         <item itemvalue="Python.funcs" />
+        <item itemvalue="Python.save_pics_4" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640361567360</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="tkinter testing 4">
+      <created>1640713024088</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1640713024088</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,6 +406,7 @@
     <MESSAGE value="tkinter testing" />
     <MESSAGE value="tkinter testing 2" />
     <MESSAGE value="tkinter testing 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="tkinter testing 3" />
+    <MESSAGE value="tkinter testing 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="tkinter testing 4" />
   </component>
 </project>
