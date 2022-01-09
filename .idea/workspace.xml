@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="parsing test without sending respond">
-      <change afterPath="$PROJECT_DIR$/../tkinter/6_combobox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Parsing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Parsing.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="combobox testing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/.idea/tkinter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/.idea/tkinter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/4_checkbutton.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/4_checkbutton.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/5_radiobutton.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/5_radiobutton.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/6_combobox.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/6_combobox.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +40,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../headhunter_job_searcher" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.6_combobox">
+  <component name="RunManager" selected="Python.test">
     <configuration name="2_entry_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,8 +177,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6_combobox" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.6_combobox" />
         <item itemvalue="Python.2_entry_test" />
         <item itemvalue="Python.5_radiobutton" />
         <item itemvalue="Python.4_checkbutton" />
@@ -327,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639583928165</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="combobox testing">
+      <created>1641741444801</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1641741444801</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -360,6 +360,7 @@
     <MESSAGE value="working model before main function - 3" />
     <MESSAGE value="send a letter and hit &quot;send respond&quot;" />
     <MESSAGE value="send a letter and hit &quot;send respond&quot; - 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="send a letter and hit &quot;send respond&quot; - 3" />
+    <MESSAGE value="combobox testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="combobox testing" />
   </component>
 </project>
