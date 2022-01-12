@@ -13,14 +13,14 @@ def get_links():
     option.add_argument("--disable-blink-features=AutomationControlled")
     option.headless = True
     driver = webdriver.Chrome(chrome_options=option)
-    start_page = 'https://nsfwalbum.com/photo/72226862'
+    start_page = 'https://nsfwalbum.com/photo/73664788'
     driver.get(start_page)
 
     all_links = []
     for _ in range(90):
         time.sleep(0.6)
         link = driver.find_element(By.CSS_SELECTOR, 'img').get_attribute('src')
-        all_links.append(link)
+        all_links.append(link[:-6])
         print(link)
         time.sleep(0.2)
         next = driver.find_element(By.CSS_SELECTOR, 'a[id*="nextPhoto"]')
