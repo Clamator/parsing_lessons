@@ -1,8 +1,4 @@
 import requests
-import wget
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
 
 img_url = 'https://m.media-amazon.com/images/I/71xtuRugCvL._SL1500_.jpg'
 

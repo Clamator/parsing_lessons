@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="combobox testing">
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="wallet and inst dl prot">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/6_combobox.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/6_combobox.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/save_pics_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/save_pics_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/test_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/test_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +24,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../tkinter" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
   <component name="ProjectId" id="1zDR6AD6F5OB0ukdH42rBahYpPC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,8 +33,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../headhunter_job_searcher" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Parsing" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.test">
     <configuration name="2_entry_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -62,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4_checkbutton" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,49 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/4_checkbutton.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5_radiobutton" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tkinter" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Program Files\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/5_radiobutton.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="6_combobox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tkinter" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/6_combobox.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/3_calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,6 +106,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="save_pics_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Parsing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/save_pics_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,9 +134,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\User\PycharmProjects\GIT\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/test.py" />
@@ -167,21 +148,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/test_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.5_radiobutton" />
-      <item itemvalue="Python.4_checkbutton" />
-      <item itemvalue="Python.6_combobox" />
-      <item itemvalue="Python.2_entry_test" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.3_calculator" />
+      <item itemvalue="Python.2_entry_test" />
+      <item itemvalue="Python.test_3" />
+      <item itemvalue="Python.save_pics_4" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.6_combobox" />
+        <item itemvalue="Python.test_3" />
+        <item itemvalue="Python.save_pics_4" />
         <item itemvalue="Python.2_entry_test" />
-        <item itemvalue="Python.5_radiobutton" />
-        <item itemvalue="Python.4_checkbutton" />
+        <item itemvalue="Python.3_calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -320,14 +322,98 @@
       <option name="project" value="LOCAL" />
       <updated>1639583928165</updated>
     </task>
-    <task id="LOCAL-00019" summary="combobox testing">
-      <created>1641741444801</created>
+    <task id="LOCAL-00019" summary="send a letter and hit &quot;send respond&quot; - 4&#10;it seems working">
+      <created>1639586280754</created>
       <option name="number" value="00019" />
       <option name="presentableId" value="LOCAL-00019" />
       <option name="project" value="LOCAL" />
-      <updated>1641741444801</updated>
+      <updated>1639586280754</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="-">
+      <created>1639929678564</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1639929678564</updated>
+    </task>
+    <task id="LOCAL-00021" summary="vk parsing test">
+      <created>1640273150413</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1640273150413</updated>
+    </task>
+    <task id="LOCAL-00022" summary="tkinter testing">
+      <created>1640354097378</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1640354097378</updated>
+    </task>
+    <task id="LOCAL-00023" summary="tkinter testing 2">
+      <created>1640360766648</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1640360766648</updated>
+    </task>
+    <task id="LOCAL-00024" summary="tkinter testing 3">
+      <created>1640361567360</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1640361567360</updated>
+    </task>
+    <task id="LOCAL-00025" summary="tkinter testing 4">
+      <created>1640713024088</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1640713024088</updated>
+    </task>
+    <task id="LOCAL-00026" summary="checkbutton and calculator">
+      <created>1640793039155</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1640793039155</updated>
+    </task>
+    <task id="LOCAL-00027" summary="checkbutton and calculator">
+      <created>1641718829284</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1641718829285</updated>
+    </task>
+    <task id="LOCAL-00028" summary="1">
+      <created>1641757198664</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1641757198664</updated>
+    </task>
+    <task id="LOCAL-00029" summary="1">
+      <created>1641927520631</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1641927520631</updated>
+    </task>
+    <task id="LOCAL-00030" summary="wallet and inst dl prot">
+      <created>1641966262778</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1641966262778</updated>
+    </task>
+    <task id="LOCAL-00031" summary="wallet and inst dl prot">
+      <created>1642015077959</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1642015077959</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -340,6 +426,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -360,7 +447,16 @@
     <MESSAGE value="working model before main function - 3" />
     <MESSAGE value="send a letter and hit &quot;send respond&quot;" />
     <MESSAGE value="send a letter and hit &quot;send respond&quot; - 3" />
-    <MESSAGE value="combobox testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="combobox testing" />
+    <MESSAGE value="send a letter and hit &quot;send respond&quot; - 4&#10;it seems working" />
+    <MESSAGE value="-" />
+    <MESSAGE value="vk parsing test" />
+    <MESSAGE value="tkinter testing" />
+    <MESSAGE value="tkinter testing 2" />
+    <MESSAGE value="tkinter testing 3" />
+    <MESSAGE value="tkinter testing 4" />
+    <MESSAGE value="checkbutton and calculator" />
+    <MESSAGE value="1" />
+    <MESSAGE value="wallet and inst dl prot" />
+    <option name="LAST_COMMIT_MESSAGE" value="wallet and inst dl prot" />
   </component>
 </project>
