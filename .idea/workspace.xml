@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="wallet program prot">
-      <change beforePath="$PROJECT_DIR$/.idea/Parsing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Parsing.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="wallet program prot (menu, clear button and smth else have been added)">
+      <change afterPath="$PROJECT_DIR$/../tkinter/categories/about.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/.idea/tkinter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/.idea/tkinter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/categories/entertainment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/categories/entertainment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/categories/food.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/categories/food.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/categories/medicine.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/categories/medicine.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/categories/other.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/categories/other.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/categories/transport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/categories/transport.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_window.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +41,7 @@
       <recent name="C:\Users\User\PycharmProjects\Parsing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.wallet_window">
+  <component name="RunManager" selected="Python.test_3">
     <configuration name="2_entry_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/test_6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/test_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,17 +193,17 @@
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.3_calculator" />
       <item itemvalue="Python.wallet_window" />
-      <item itemvalue="Python.test_6" />
       <item itemvalue="Python.2_entry_test" />
       <item itemvalue="Python.6_combobox" />
+      <item itemvalue="Python.test_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_3" />
         <item itemvalue="Python.wallet_window" />
         <item itemvalue="Python.3_calculator" />
         <item itemvalue="Python.6_combobox" />
         <item itemvalue="Python.2_entry_test" />
-        <item itemvalue="Python.test_6" />
       </list>
     </recent_temporary>
   </component>
@@ -455,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642334486468</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="wallet program prot (menu, clear button and smth else have been added)">
+      <created>1642364841697</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1642364841698</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -474,7 +473,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../Codewars" />
     </ignored-roots>
-    <MESSAGE value="add to .gitignore&#10;first commit" />
     <MESSAGE value="changed &quot;find_element....&quot; according to last updates" />
     <MESSAGE value="some updates and new files for hh job searcher project" />
     <MESSAGE value="other updates in main script" />
@@ -499,6 +497,7 @@
     <MESSAGE value="wallet and inst dl prot" />
     <MESSAGE value="threading" />
     <MESSAGE value="wallet program prot" />
-    <option name="LAST_COMMIT_MESSAGE" value="wallet program prot" />
+    <MESSAGE value="wallet program prot (menu, clear button and smth else have been added)" />
+    <option name="LAST_COMMIT_MESSAGE" value="wallet program prot (menu, clear button and smth else have been added)" />
   </component>
 </project>
