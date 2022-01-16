@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="threading">
-      <change afterPath="$PROJECT_DIR$/../tkinter/test_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="wallet program prot">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/.idea/tkinter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/.idea/tkinter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/test_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_window.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_window.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +41,27 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.wallet_window">
+    <configuration name="2_entry_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/2_entry_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="3_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,6 +83,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="6_combobox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/6_combobox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Parsing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,27 +117,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tkinter" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\User\PycharmProjects\GIT\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,18 +190,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.3_calculator" />
       <item itemvalue="Python.wallet_window" />
       <item itemvalue="Python.test_6" />
+      <item itemvalue="Python.2_entry_test" />
+      <item itemvalue="Python.6_combobox" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.wallet_window" />
+        <item itemvalue="Python.6_combobox" />
+        <item itemvalue="Python.2_entry_test" />
         <item itemvalue="Python.3_calculator" />
         <item itemvalue="Python.test_6" />
-        <item itemvalue="Python.wallet_window" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -413,7 +432,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642015077959</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="threading">
+      <created>1642331934541</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1642331934541</updated>
+    </task>
+    <task id="LOCAL-00033" summary="wallet program prot">
+      <created>1642334486468</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1642334486468</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -432,8 +465,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../Codewars" />
     </ignored-roots>
-    <MESSAGE value="hz" />
-    <MESSAGE value="add to .gitignore" />
     <MESSAGE value="add to .gitignore&#10;first commit" />
     <MESSAGE value="changed &quot;find_element....&quot; according to last updates" />
     <MESSAGE value="some updates and new files for hh job searcher project" />
@@ -457,6 +488,8 @@
     <MESSAGE value="checkbutton and calculator" />
     <MESSAGE value="1" />
     <MESSAGE value="wallet and inst dl prot" />
-    <option name="LAST_COMMIT_MESSAGE" value="wallet and inst dl prot" />
+    <MESSAGE value="threading" />
+    <MESSAGE value="wallet program prot" />
+    <option name="LAST_COMMIT_MESSAGE" value="wallet program prot" />
   </component>
 </project>
