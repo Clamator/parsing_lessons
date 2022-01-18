@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="wallet program prot (menu, clear button and smth else have been added)">
-      <change afterPath="$PROJECT_DIR$/../tkinter/categories/about.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Parsing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Parsing.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/categories/about.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/categories/about.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/categories/food.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/categories/food.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/categories/medicine.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/categories/medicine.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/categories/transport.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/funcs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/funcs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_window.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +47,7 @@
       <recent name="C:\Users\User\PycharmProjects\Parsing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_3">
+  <component name="RunManager" selected="Python.wallet_window">
     <configuration name="2_entry_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,8 +205,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_3" />
         <item itemvalue="Python.wallet_window" />
+        <item itemvalue="Python.test_3" />
         <item itemvalue="Python.3_calculator" />
         <item itemvalue="Python.6_combobox" />
         <item itemvalue="Python.2_entry_test" />
@@ -454,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642364841698</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="wallet program prot (menu, clear button and smth else have been added)">
+      <created>1642366620656</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1642366620656</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
