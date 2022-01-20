@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="before def add_spent_money_to_category changing commit">
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="after def add_spent_money_to_category changing commit">
+      <change afterPath="$PROJECT_DIR$/plugins2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkinter/1_2_test_grid.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/013_parsing_with_authorization_req.py" beforeDir="false" afterPath="$PROJECT_DIR$/013_parsing_with_authorization_req.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/1_test_grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/1_test_grid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/funcs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/funcs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/entertainment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/entertainment.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/food.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/food.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/other.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/other.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/transport pass.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/transport pass.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" afterDir="false" />
     </list>
@@ -39,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -47,7 +55,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.wallet_window (1)">
-    <configuration name="3_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1_2_test_grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +67,28 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/3_calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/1_2_test_grid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1_test_grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\User\PycharmProjects\GIT\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/1_test_grid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,63 +181,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wallet_window" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="tkinter" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\User\PycharmProjects\GIT\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/wallet_window.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="wallet_window" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tkinter" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\User\PycharmProjects\GIT\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\User\PycharmProjects\tkinter\wallet_window.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.3_calculator" />
-      <item itemvalue="Python.wallet_window" />
-      <item itemvalue="Python.test_3" />
       <item itemvalue="Python.wallet_window (1)" />
+      <item itemvalue="Python.test_3" />
+      <item itemvalue="Python.1_2_test_grid" />
       <item itemvalue="Python.funcs" />
+      <item itemvalue="Python.1_test_grid" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.wallet_window (1)" />
         <item itemvalue="Python.funcs" />
-        <item itemvalue="Python.wallet_window" />
+        <item itemvalue="Python.1_2_test_grid" />
+        <item itemvalue="Python.1_test_grid" />
         <item itemvalue="Python.test_3" />
-        <item itemvalue="Python.3_calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -508,7 +495,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642665275240</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="after def add_spent_money_to_category changing commit">
+      <created>1642666878103</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1642666878103</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -528,7 +522,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../Codewars" />
     </ignored-roots>
-    <MESSAGE value="1st vacancy name test" />
     <MESSAGE value="commit before pagination testing" />
     <MESSAGE value="pagination complete, next - csv function" />
     <MESSAGE value="working model before main function" />
@@ -553,6 +546,7 @@
     <MESSAGE value="placement of buttons and labels has been updated (relx/rely), next step - make def add_spent_money_to_category shorter, and add a window when person presses refill/withdraw, and add a history of refilling/withsrawing" />
     <MESSAGE value="placement of buttons and labels has been updated (relx/rely), next step - make def add_spent_money_to_category shorter, and add a history of refilling/withsrawing" />
     <MESSAGE value="before def add_spent_money_to_category changing commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="before def add_spent_money_to_category changing commit" />
+    <MESSAGE value="after def add_spent_money_to_category changing commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="after def add_spent_money_to_category changing commit" />
   </component>
 </project>
