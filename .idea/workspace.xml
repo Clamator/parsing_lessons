@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="before adding a history for each category">
-      <change afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/+transport pass+_history.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/entertainment_history.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/food_history.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/medicine_history.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/other_history.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/transport pass_history.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/{cat_name}_history.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/transport.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/transport_history.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/funcs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/funcs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/entertainment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/entertainment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/food.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/food.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/medicine.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/medicine.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/other.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/other.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/transport pass.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/transport pass.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/transport pass.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/transport pass_history.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" afterDir="false" />
     </list>
@@ -60,7 +49,7 @@
       <recent name="C:\Users\User\PycharmProjects\Parsing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.wallet">
+  <component name="RunManager" selected="Python.wallet_window (1)">
     <configuration name="1_2_test_grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,8 +186,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.wallet" />
         <item itemvalue="Python.wallet_window (1)" />
+        <item itemvalue="Python.wallet" />
         <item itemvalue="Python.funcs" />
         <item itemvalue="Python.1_2_test_grid" />
         <item itemvalue="Python.1_test_grid" />
@@ -522,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642686630570</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="before adding a history for each category">
+      <created>1642692870810</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1642692870810</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
