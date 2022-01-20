@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="placement of buttons and labels has been updated (relx/rely), next step - make def add_spent_money_to_category shorter, and add a history of refilling/withsrawing">
-      <change afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.txt" afterDir="false" />
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="before def add_spent_money_to_category changing commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/funcs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/funcs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/entertainment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/entertainment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/medicine.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/medicine.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/food.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/food.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" afterDir="false" />
     </list>
@@ -504,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642615902829</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="before def add_spent_money_to_category changing commit">
+      <created>1642665275240</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1642665275240</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -524,7 +528,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../Codewars" />
     </ignored-roots>
-    <MESSAGE value="adding new functions in main" />
     <MESSAGE value="1st vacancy name test" />
     <MESSAGE value="commit before pagination testing" />
     <MESSAGE value="pagination complete, next - csv function" />
@@ -549,6 +552,7 @@
     <MESSAGE value="placement of buttons and labels has been updated (relx/rely), next step - make def add_spent_money_to_category shorter, and add a window when person presses refill/withdraw" />
     <MESSAGE value="placement of buttons and labels has been updated (relx/rely), next step - make def add_spent_money_to_category shorter, and add a window when person presses refill/withdraw, and add a history of refilling/withsrawing" />
     <MESSAGE value="placement of buttons and labels has been updated (relx/rely), next step - make def add_spent_money_to_category shorter, and add a history of refilling/withsrawing" />
-    <option name="LAST_COMMIT_MESSAGE" value="placement of buttons and labels has been updated (relx/rely), next step - make def add_spent_money_to_category shorter, and add a history of refilling/withsrawing" />
+    <MESSAGE value="before def add_spent_money_to_category changing commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="before def add_spent_money_to_category changing commit" />
   </component>
 </project>
