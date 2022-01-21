@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="after adding a history for each category">
-      <change afterPath="$PROJECT_DIR$/../tkinter/printer.csv" afterDir="false" />
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="fixed some bugs">
+      <change afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/total_earned.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/total_spent.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/test_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/test_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/1_test_grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/1_test_grid.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/entertainment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/entertainment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/entertainment_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/entertainment_history.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/food.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/food.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/food_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/food_history.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/other.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/other.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/other_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/other_history.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/transport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/transport.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/transport_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/transport_history.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" afterDir="false" />
     </list>
@@ -52,6 +56,27 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.wallet_window (1)">
+    <configuration name="1_test_grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\User\PycharmProjects\GIT\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/1_test_grid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Parsing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,27 +90,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="funcs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tkinter" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\User\PycharmProjects\GIT\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/funcs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,18 +185,18 @@
     <list>
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.wallet_window (1)" />
-      <item itemvalue="Python.funcs" />
       <item itemvalue="Python.wallet" />
       <item itemvalue="Python.test_6" />
       <item itemvalue="Python.test_3" />
+      <item itemvalue="Python.1_test_grid" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.wallet_window (1)" />
+        <item itemvalue="Python.1_test_grid" />
+        <item itemvalue="Python.wallet" />
         <item itemvalue="Python.test_3" />
         <item itemvalue="Python.test_6" />
-        <item itemvalue="Python.wallet" />
-        <item itemvalue="Python.funcs" />
       </list>
     </recent_temporary>
   </component>
@@ -527,7 +531,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642693776953</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="fixed some bugs, common improvements">
+      <created>1642706178582</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1642706178582</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -547,8 +558,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../Codewars" />
     </ignored-roots>
-    <MESSAGE value="working model before main function" />
-    <MESSAGE value="working model before main function - 2" />
     <MESSAGE value="working model before main function - 3" />
     <MESSAGE value="send a letter and hit &quot;send respond&quot;" />
     <MESSAGE value="send a letter and hit &quot;send respond&quot; - 3" />
@@ -572,6 +581,8 @@
     <MESSAGE value="after def add_spent_money_to_category changing commit" />
     <MESSAGE value="before adding a history for each category" />
     <MESSAGE value="after adding a history for each category" />
-    <option name="LAST_COMMIT_MESSAGE" value="after adding a history for each category" />
+    <MESSAGE value="fixed some bugs, common improvements" />
+    <MESSAGE value="fixed some bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed some bugs" />
   </component>
 </project>
