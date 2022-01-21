@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="after 'Delete all' commit (with made but not tested func). Need to add a bordering in wallet history -2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/1_test_grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/1_test_grid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" afterDir="false" />
-    </list>
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="trying to add filter for spent money" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -198,13 +193,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633680493766</updated>
-    </task>
-    <task id="LOCAL-00004" summary="add to .gitignore&#10;first commit">
-      <created>1639056014823</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1639056014823</updated>
     </task>
     <task id="LOCAL-00005" summary="changed &quot;find_element....&quot; according to last updates">
       <created>1639126706961</created>
@@ -542,7 +530,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642773946893</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="trying to add filter for spent money">
+      <created>1642777164858</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1642777164859</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -562,7 +557,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../Codewars" />
     </ignored-roots>
-    <MESSAGE value="-" />
     <MESSAGE value="vk parsing test" />
     <MESSAGE value="tkinter testing" />
     <MESSAGE value="tkinter testing 2" />
@@ -587,6 +581,7 @@
     <MESSAGE value="before 'Delete all' commit (with made but not tested func) - 3" />
     <MESSAGE value="after 'Delete all' commit (with made but not tested func). Need to add a bordering in wallet history" />
     <MESSAGE value="after 'Delete all' commit (with made but not tested func). Need to add a bordering in wallet history -2" />
-    <option name="LAST_COMMIT_MESSAGE" value="after 'Delete all' commit (with made but not tested func). Need to add a bordering in wallet history -2" />
+    <MESSAGE value="trying to add filter for spent money" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to add filter for spent money" />
   </component>
 </project>
