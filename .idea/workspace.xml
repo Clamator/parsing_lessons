@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="trying to add filter for spent money">
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="trying to add filter for spent money 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +44,7 @@
       <recent name="C:\Users\User\PycharmProjects\Parsing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.wallet_window (1)">
+  <component name="RunManager" selected="Python.wallet">
     <configuration name="1_test_grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,8 +181,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.wallet_window (1)" />
         <item itemvalue="Python.wallet" />
+        <item itemvalue="Python.wallet_window (1)" />
         <item itemvalue="Python.wallet_test" />
         <item itemvalue="Python.1_test_grid" />
         <item itemvalue="Python.funcs" />
@@ -195,13 +197,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633680493766</updated>
-    </task>
-    <task id="LOCAL-00006" summary="some updates and new files for hh job searcher project">
-      <created>1639134967041</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1639134967041</updated>
     </task>
     <task id="LOCAL-00007" summary="other updates in main script">
       <created>1639145902048</created>
@@ -539,7 +534,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642777682180</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="trying to add filter for spent money 3">
+      <created>1642778075889</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1642778075889</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -559,7 +561,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../Codewars" />
     </ignored-roots>
-    <MESSAGE value="vk parsing test" />
     <MESSAGE value="tkinter testing" />
     <MESSAGE value="tkinter testing 2" />
     <MESSAGE value="tkinter testing 3" />
@@ -584,6 +585,7 @@
     <MESSAGE value="after 'Delete all' commit (with made but not tested func). Need to add a bordering in wallet history" />
     <MESSAGE value="after 'Delete all' commit (with made but not tested func). Need to add a bordering in wallet history -2" />
     <MESSAGE value="trying to add filter for spent money" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying to add filter for spent money" />
+    <MESSAGE value="trying to add filter for spent money 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to add filter for spent money 3" />
   </component>
 </project>
