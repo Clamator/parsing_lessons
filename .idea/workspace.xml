@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="trying to add filter for spent money" />
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="trying to add filter for spent money">
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,13 +195,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633680493766</updated>
-    </task>
-    <task id="LOCAL-00005" summary="changed &quot;find_element....&quot; according to last updates">
-      <created>1639126706961</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1639126706961</updated>
     </task>
     <task id="LOCAL-00006" summary="some updates and new files for hh job searcher project">
       <created>1639134967041</created>
@@ -537,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642777164859</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="trying to add filter for spent money">
+      <created>1642777682179</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1642777682180</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
