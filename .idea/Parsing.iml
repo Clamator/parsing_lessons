@@ -14,5 +14,6 @@
     <orderEntry type="module" module-name="headhunter_job_searcher" />
     <orderEntry type="module" module-name="hh_searcher" />
     <orderEntry type="module" module-name="tkinter" />
+    <orderEntry type="module" module-name="matplotlib" />
   </component>
 </module>

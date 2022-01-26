@@ -2,8 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../hh_searcher" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../hh_searcher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../matplotlib" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../tkinter" vcs="Git" />
   </component>
 </project>
