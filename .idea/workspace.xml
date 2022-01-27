@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="try to add graph onto window">
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="added pie chart on a new window, now it's time to show data of categories - 3">
+      <change afterPath="$PROJECT_DIR$/../matplotlib/001.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../matplotlib/5_tki_mpl_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/../matplotlib/5_tki_mpl_new.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -198,34 +198,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633680493766</updated>
-    </task>
-    <task id="LOCAL-00012" summary="pagination complete, next - csv function">
-      <created>1639559993176</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1639559993176</updated>
-    </task>
-    <task id="LOCAL-00013" summary="working model before main function">
-      <created>1639566806307</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1639566806307</updated>
-    </task>
-    <task id="LOCAL-00014" summary="working model before main function - 2">
-      <created>1639567881750</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1639567881750</updated>
-    </task>
-    <task id="LOCAL-00015" summary="working model before main function - 3">
-      <created>1639568409114</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1639568409114</updated>
     </task>
     <task id="LOCAL-00016" summary="send a letter and hit &quot;send respond&quot;">
       <created>1639582298503</created>
@@ -542,7 +514,35 @@
       <option name="project" value="LOCAL" />
       <updated>1643215392549</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="try to add graph onto window">
+      <created>1643225346239</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1643225346239</updated>
+    </task>
+    <task id="LOCAL-00062" summary="added pie chart on a new window, now it's time to show data of categories">
+      <created>1643225585286</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1643225585287</updated>
+    </task>
+    <task id="LOCAL-00063" summary="added pie chart on a new window, now it's time to show data of categories - 2">
+      <created>1643262173972</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1643262173972</updated>
+    </task>
+    <task id="LOCAL-00064" summary="added pie chart on a new window, now it's time to show data of categories - 3">
+      <created>1643262287722</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1643262287722</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -562,9 +562,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../Codewars" />
     </ignored-roots>
-    <MESSAGE value="tkinter testing 4" />
-    <MESSAGE value="checkbutton and calculator" />
-    <MESSAGE value="1" />
     <MESSAGE value="wallet and inst dl prot" />
     <MESSAGE value="threading" />
     <MESSAGE value="wallet program prot" />
@@ -587,6 +584,9 @@
     <MESSAGE value="trying to add filter for spent money 4" />
     <MESSAGE value="think, finally i've done with filter" />
     <MESSAGE value="try to add graph onto window" />
-    <option name="LAST_COMMIT_MESSAGE" value="try to add graph onto window" />
+    <MESSAGE value="added pie chart on a new window, now it's time to show data of categories" />
+    <MESSAGE value="added pie chart on a new window, now it's time to show data of categories - 2" />
+    <MESSAGE value="added pie chart on a new window, now it's time to show data of categories - 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="added pie chart on a new window, now it's time to show data of categories - 3" />
   </component>
 </project>
