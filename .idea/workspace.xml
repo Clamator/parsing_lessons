@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="done with wallet, mb will add smth else">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/entertainment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/entertainment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/food.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/food.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/food_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/food_history.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/medicine.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/medicine.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/other.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/other.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/total_earned.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/total_earned.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/total_spent.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/total_spent.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/transport_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/transport_history.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" afterDir="false" />
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="add showing the non-null ctgs only">
       <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -207,13 +196,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633680493766</updated>
-    </task>
-    <task id="LOCAL-00016" summary="send a letter and hit &quot;send respond&quot;">
-      <created>1639582298503</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1639582298504</updated>
     </task>
     <task id="LOCAL-00017" summary="send a letter and hit &quot;send respond&quot;">
       <created>1639583120775</created>
@@ -551,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643262287722</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="add showing the non-null ctgs only">
+      <created>1643310952061</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1643310952062</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -571,7 +560,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../Codewars" />
     </ignored-roots>
-    <MESSAGE value="wallet and inst dl prot" />
     <MESSAGE value="threading" />
     <MESSAGE value="wallet program prot" />
     <MESSAGE value="wallet program prot (menu, clear button and smth else have been added)" />
@@ -596,6 +584,7 @@
     <MESSAGE value="added pie chart on a new window, now it's time to show data of categories" />
     <MESSAGE value="added pie chart on a new window, now it's time to show data of categories - 2" />
     <MESSAGE value="added pie chart on a new window, now it's time to show data of categories - 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="added pie chart on a new window, now it's time to show data of categories - 3" />
+    <MESSAGE value="add showing the non-null ctgs only" />
+    <option name="LAST_COMMIT_MESSAGE" value="add showing the non-null ctgs only" />
   </component>
 </project>
