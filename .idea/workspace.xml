@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="add showing the non-null ctgs only">
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkinter/7_menubar_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkinter/8_pathlib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/.idea/tkinter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/.idea/tkinter.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +23,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../tkinter" />
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1zDR6AD6F5OB0ukdH42rBahYpPC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -43,7 +54,7 @@
       <recent name="C:\Users\User\PycharmProjects\Parsing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.wallet_window (1)">
+  <component name="RunManager" selected="Python.7_menubar_2">
     <configuration name="3_1_tki_mpl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="matplotlib" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,27 +68,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../matplotlib/3_1_tki_mpl.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3_tki_mpl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="matplotlib" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../matplotlib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../matplotlib/3_tki_mpl.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,6 +110,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../matplotlib/5_tki_mpl_new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="7_menubar_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/7_menubar_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,17 +185,17 @@
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.wallet_window (1)" />
       <item itemvalue="Python.4_pie_graph" />
-      <item itemvalue="Python.3_tki_mpl" />
       <item itemvalue="Python.3_1_tki_mpl" />
       <item itemvalue="Python.5_tki_mpl_new" />
+      <item itemvalue="Python.7_menubar_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.7_menubar_2" />
         <item itemvalue="Python.wallet_window (1)" />
         <item itemvalue="Python.5_tki_mpl_new" />
         <item itemvalue="Python.4_pie_graph" />
         <item itemvalue="Python.3_1_tki_mpl" />
-        <item itemvalue="Python.3_tki_mpl" />
       </list>
     </recent_temporary>
   </component>
@@ -196,13 +207,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633680493766</updated>
-    </task>
-    <task id="LOCAL-00017" summary="send a letter and hit &quot;send respond&quot;">
-      <created>1639583120775</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1639583120775</updated>
     </task>
     <task id="LOCAL-00018" summary="send a letter and hit &quot;send respond&quot; - 3">
       <created>1639583928165</created>
@@ -540,7 +544,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643310952062</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="add showing the non-null ctgs only">
+      <created>1643311677414</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1643311677414</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
