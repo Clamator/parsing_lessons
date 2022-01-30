@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="new tests">
-      <change afterPath="$PROJECT_DIR$/../matplotlib/fiio.txt" afterDir="false" />
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="new tests - 3">
+      <change afterPath="$PROJECT_DIR$/../tkinter/fiio.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/8_pathlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/8_pathlib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/medicine.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/medicine.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/medicine_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/medicine_history.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/other.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/other.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/other_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/other_history.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/total_spent.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/total_spent.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +52,7 @@
       <recent name="C:\Users\User\PycharmProjects\Parsing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.8_pathlib (1)">
+  <component name="RunManager" selected="Python.wallet_window (1)">
     <configuration name="5_tki_mpl_new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="matplotlib" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,18 +181,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.wallet_window (1)" />
       <item itemvalue="Python.5_tki_mpl_new" />
       <item itemvalue="Python.7_menubar_2" />
-      <item itemvalue="Python.8_pathlib" />
       <item itemvalue="Python.8_pathlib (1)" />
+      <item itemvalue="Python.8_pathlib" />
+      <item itemvalue="Python.wallet_window (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.wallet_window (1)" />
         <item itemvalue="Python.8_pathlib (1)" />
         <item itemvalue="Python.8_pathlib" />
         <item itemvalue="Python.7_menubar_2" />
-        <item itemvalue="Python.wallet_window (1)" />
         <item itemvalue="Python.5_tki_mpl_new" />
       </list>
     </recent_temporary>
@@ -213,13 +205,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633680493766</updated>
-    </task>
-    <task id="LOCAL-00020" summary="-">
-      <created>1639929678564</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1639929678564</updated>
     </task>
     <task id="LOCAL-00021" summary="vk parsing test">
       <created>1640273150413</created>
@@ -557,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643534513400</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="new tests - 3">
+      <created>1643540971958</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1643540971958</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -577,7 +569,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../Codewars" />
     </ignored-roots>
-    <MESSAGE value="wallet program prot" />
     <MESSAGE value="wallet program prot (menu, clear button and smth else have been added)" />
     <MESSAGE value="placement of buttons and labels has been updated (relx/rely), next step - make def add_spent_money_to_category shorter, and add a window when person presses refill/withdraw" />
     <MESSAGE value="placement of buttons and labels has been updated (relx/rely), next step - make def add_spent_money_to_category shorter, and add a window when person presses refill/withdraw, and add a history of refilling/withsrawing" />
@@ -602,6 +593,7 @@
     <MESSAGE value="added pie chart on a new window, now it's time to show data of categories - 3" />
     <MESSAGE value="add showing the non-null ctgs only" />
     <MESSAGE value="new tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="new tests" />
+    <MESSAGE value="new tests - 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="new tests - 3" />
   </component>
 </project>
