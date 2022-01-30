@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="add showing the non-null ctgs only">
-      <change afterPath="$PROJECT_DIR$/../tkinter/7_menubar_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/8_pathlib.py" afterDir="false" />
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="new tests">
+      <change afterPath="$PROJECT_DIR$/../matplotlib/fiio.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/.idea/tkinter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/.idea/tkinter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/8_pathlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/8_pathlib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/medicine.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/medicine.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/medicine_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/medicine_history.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/other.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/other.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/other_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/other_history.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/total_spent.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/total_spent.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tkinter" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -54,49 +60,7 @@
       <recent name="C:\Users\User\PycharmProjects\Parsing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7_menubar_2">
-    <configuration name="3_1_tki_mpl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="matplotlib" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../matplotlib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../matplotlib/3_1_tki_mpl.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4_pie_graph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="matplotlib" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../matplotlib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../matplotlib/4_pie_graph.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.8_pathlib (1)">
     <configuration name="5_tki_mpl_new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="matplotlib" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,6 +95,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/7_menubar_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8_pathlib (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\User\PycharmProjects\tkinter\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/8_pathlib.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8_pathlib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../matplotlib" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,18 +190,18 @@
     <list>
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.wallet_window (1)" />
-      <item itemvalue="Python.4_pie_graph" />
-      <item itemvalue="Python.3_1_tki_mpl" />
       <item itemvalue="Python.5_tki_mpl_new" />
       <item itemvalue="Python.7_menubar_2" />
+      <item itemvalue="Python.8_pathlib" />
+      <item itemvalue="Python.8_pathlib (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.8_pathlib (1)" />
+        <item itemvalue="Python.8_pathlib" />
         <item itemvalue="Python.7_menubar_2" />
         <item itemvalue="Python.wallet_window (1)" />
         <item itemvalue="Python.5_tki_mpl_new" />
-        <item itemvalue="Python.4_pie_graph" />
-        <item itemvalue="Python.3_1_tki_mpl" />
       </list>
     </recent_temporary>
   </component>
@@ -207,20 +213,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633680493766</updated>
-    </task>
-    <task id="LOCAL-00018" summary="send a letter and hit &quot;send respond&quot; - 3">
-      <created>1639583928165</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1639583928165</updated>
-    </task>
-    <task id="LOCAL-00019" summary="send a letter and hit &quot;send respond&quot; - 4&#10;it seems working">
-      <created>1639586280754</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1639586280754</updated>
     </task>
     <task id="LOCAL-00020" summary="-">
       <created>1639929678564</created>
@@ -551,7 +543,21 @@
       <option name="project" value="LOCAL" />
       <updated>1643311677414</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="new tests">
+      <created>1643534061259</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1643534061260</updated>
+    </task>
+    <task id="LOCAL-00068" summary="new tests">
+      <created>1643534513400</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1643534513400</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -571,7 +577,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../Codewars" />
     </ignored-roots>
-    <MESSAGE value="threading" />
     <MESSAGE value="wallet program prot" />
     <MESSAGE value="wallet program prot (menu, clear button and smth else have been added)" />
     <MESSAGE value="placement of buttons and labels has been updated (relx/rely), next step - make def add_spent_money_to_category shorter, and add a window when person presses refill/withdraw" />
@@ -596,6 +601,7 @@
     <MESSAGE value="added pie chart on a new window, now it's time to show data of categories - 2" />
     <MESSAGE value="added pie chart on a new window, now it's time to show data of categories - 3" />
     <MESSAGE value="add showing the non-null ctgs only" />
-    <option name="LAST_COMMIT_MESSAGE" value="add showing the non-null ctgs only" />
+    <MESSAGE value="new tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="new tests" />
   </component>
 </project>
