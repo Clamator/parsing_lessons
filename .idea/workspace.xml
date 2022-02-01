@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="testing Table in tkinter">
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="done with Table">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/8_pathlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/8_pathlib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/entertainment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/entertainment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/entertainment_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/entertainment_history.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/total_spent.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/total_spent.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window_pathlib_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window_pathlib_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +51,7 @@
       <recent name="C:\Users\User\PycharmProjects\Parsing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.8_pathlib (1)">
+  <component name="RunManager" selected="Python.wallet_window_pathlib_test">
     <configuration name="8_pathlib (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,10 +188,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.wallet_window_pathlib_test" />
         <item itemvalue="Python.8_pathlib (1)" />
         <item itemvalue="Python.9_unknown" />
         <item itemvalue="Python.pathlib" />
-        <item itemvalue="Python.wallet_window_pathlib_test" />
         <item itemvalue="Python.wallet_window (1)" />
       </list>
     </recent_temporary>
@@ -209,27 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633680493766</updated>
-    </task>
-    <task id="LOCAL-00025" summary="tkinter testing 4">
-      <created>1640713024088</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1640713024088</updated>
-    </task>
-    <task id="LOCAL-00026" summary="checkbutton and calculator">
-      <created>1640793039155</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1640793039155</updated>
-    </task>
-    <task id="LOCAL-00027" summary="checkbutton and calculator">
-      <created>1641718829284</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1641718829285</updated>
     </task>
     <task id="LOCAL-00028" summary="1">
       <created>1641757198664</created>
@@ -553,7 +527,28 @@
       <option name="project" value="LOCAL" />
       <updated>1643730758515</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="testing Table in tkinter - before making the changes in main_wallet">
+      <created>1643731986917</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1643731986917</updated>
+    </task>
+    <task id="LOCAL-00075" summary="testing Table in tkinter - before making the changes in main_wallet">
+      <created>1643739729302</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1643739729302</updated>
+    </task>
+    <task id="LOCAL-00076" summary="done with Table">
+      <created>1643741774047</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1643741774047</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -573,8 +568,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../Codewars" />
     </ignored-roots>
-    <MESSAGE value="placement of buttons and labels has been updated (relx/rely), next step - make def add_spent_money_to_category shorter, and add a history of refilling/withsrawing" />
-    <MESSAGE value="before def add_spent_money_to_category changing commit" />
     <MESSAGE value="after def add_spent_money_to_category changing commit" />
     <MESSAGE value="before adding a history for each category" />
     <MESSAGE value="after adding a history for each category" />
@@ -598,6 +591,8 @@
     <MESSAGE value="new tests - 4" />
     <MESSAGE value="new tests - 5" />
     <MESSAGE value="testing Table in tkinter" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing Table in tkinter" />
+    <MESSAGE value="testing Table in tkinter - before making the changes in main_wallet" />
+    <MESSAGE value="done with Table" />
+    <option name="LAST_COMMIT_MESSAGE" value="done with Table" />
   </component>
 </project>
