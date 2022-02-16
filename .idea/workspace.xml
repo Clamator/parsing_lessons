@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="-">
-      <change afterPath="$PROJECT_DIR$/../tkinter/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/11.py" afterDir="false" />
-      <change beforePath="$USER_HOME$/JupyterRoot/1. начальные знания/random.ipynb" beforeDir="false" afterPath="$USER_HOME$/JupyterRoot/1. начальные знания/random.ipynb" afterDir="false" />
-      <change beforePath="$USER_HOME$/JupyterRoot/1. начальные знания/str and bites.ipynb" beforeDir="false" afterPath="$USER_HOME$/JupyterRoot/1. начальные знания/str and bites.ipynb" afterDir="false" />
-      <change beforePath="$USER_HOME$/JupyterRoot/1. начальные знания/некоторые полезные функции(методы).ipynb" beforeDir="false" afterPath="$USER_HOME$/JupyterRoot/1. начальные знания/некоторые полезные функции(методы).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkinter/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkinter/13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/food.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/food.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/food_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/food_history.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/medicine.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/medicine.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/medicine_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/medicine_history.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/total_spent.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/total_spent.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,28 +52,7 @@
       <recent name="C:\Users\User\PycharmProjects\Parsing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11">
-    <configuration name="02_foreground_background_threads" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MultyAsyncParallel" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MultyAsyncParallel/multythreading" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../MultyAsyncParallel/multythreading/02_foreground_background_threads.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.12">
     <configuration name="10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,6 +95,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Parsing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wallet_window" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="funcs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter/wallet_project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/funcs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wallet_window_pathlib_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,11 +166,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter/wallet_project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/wallet_project/wallet_window_pathlib_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,19 +181,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.wallet_window_pathlib_test" />
       <item itemvalue="Python.10" />
-      <item itemvalue="Python.02_foreground_background_threads" />
-      <item itemvalue="Python.wallet_window" />
       <item itemvalue="Python.11" />
+      <item itemvalue="Python.12" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.funcs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12" />
         <item itemvalue="Python.11" />
+        <item itemvalue="Python.funcs" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.10" />
-        <item itemvalue="Python.wallet_window_pathlib_test" />
-        <item itemvalue="Python.wallet_window" />
-        <item itemvalue="Python.02_foreground_background_threads" />
       </list>
     </recent_temporary>
   </component>
@@ -215,13 +205,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633680493766</updated>
-    </task>
-    <task id="LOCAL-00030" summary="wallet and inst dl prot">
-      <created>1641966262778</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1641966262778</updated>
     </task>
     <task id="LOCAL-00031" summary="wallet and inst dl prot">
       <created>1642015077959</created>
@@ -559,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643778422669</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="-">
+      <created>1645002350203</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1645002350204</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
