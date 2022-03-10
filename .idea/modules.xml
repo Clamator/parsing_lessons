@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/../headhunter_job_searcher/.idea/headhunter_job_searcher.iml" filepath="$PROJECT_DIR$/../headhunter_job_searcher/.idea/headhunter_job_searcher.iml" />
       <module fileurl="file://$PROJECT_DIR$/../hh_searcher/.idea/hh_searcher.iml" filepath="$PROJECT_DIR$/../hh_searcher/.idea/hh_searcher.iml" />
       <module fileurl="file://$PROJECT_DIR$/../matplotlib/.idea/matplotlib.iml" filepath="$PROJECT_DIR$/../matplotlib/.idea/matplotlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_studying/.idea/python_studying.iml" filepath="$PROJECT_DIR$/../python_studying/.idea/python_studying.iml" />
       <module fileurl="file://$PROJECT_DIR$/../tkinter/.idea/tkinter.iml" filepath="$PROJECT_DIR$/../tkinter/.idea/tkinter.iml" />
     </modules>
   </component>

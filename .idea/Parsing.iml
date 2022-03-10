@@ -15,5 +15,6 @@
     <orderEntry type="module" module-name="hh_searcher" />
     <orderEntry type="module" module-name="tkinter" />
     <orderEntry type="module" module-name="matplotlib" />
+    <orderEntry type="module" module-name="python_studying" />
   </component>
 </module>
