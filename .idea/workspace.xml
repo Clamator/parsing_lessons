@@ -1,28 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="--">
-      <change afterPath="$PROJECT_DIR$/../tkinter/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/EmpDB/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/EmpDB/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/EmpDB/DB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/EmpDB/Test23.session" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/EmpDB/anon.session" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/EmpDB/clamator.session" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/EmpDB/df2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/EmpDB/pp-complete.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tkinter/EmpDB/printer.csv" afterDir="false" />
+    <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="---">
       <change beforePath="$USER_HOME$/JupyterRoot/15. введение в SQL/5- блок - SQL и питон.docx" beforeDir="false" afterPath="$USER_HOME$/JupyterRoot/15. введение в SQL/5- блок - SQL и питон.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Parsing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Parsing.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/15.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/common_history.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/total_spent.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/total_spent.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/transport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/transport.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/categories/transport_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/categories/transport_history.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/wallet_project/wallet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/EmpDB/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/EmpDB/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/EmpDB/printer.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/EmpDB/printer.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -587,7 +570,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../Codewars" />
     </ignored-roots>
-    <MESSAGE value="after adding a history for each category" />
     <MESSAGE value="fixed some bugs, common improvements" />
     <MESSAGE value="fixed some bugs" />
     <MESSAGE value="fixed some bugs, added total spent/earned" />
@@ -612,6 +594,7 @@
     <MESSAGE value="done with Table" />
     <MESSAGE value="-" />
     <MESSAGE value="--" />
-    <option name="LAST_COMMIT_MESSAGE" value="--" />
+    <MESSAGE value="---" />
+    <option name="LAST_COMMIT_MESSAGE" value="---" />
   </component>
 </project>
