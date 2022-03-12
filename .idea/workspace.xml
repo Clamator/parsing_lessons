@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6c71d4a-7720-474f-a6c6-a0b1d9f6a068" name="Changes" comment="---">
-      <change beforePath="$USER_HOME$/JupyterRoot/15. введение в SQL/5- блок - SQL и питон.docx" beforeDir="false" afterPath="$USER_HOME$/JupyterRoot/15. введение в SQL/5- блок - SQL и питон.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/EmpDB/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/EmpDB/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter/EmpDB/printer.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/EmpDB/printer.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/EmpDB/.~lock.printer.csv#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter/EmpDB/pp-complete.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter/EmpDB/pp-completee.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,27 +205,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633680493766</updated>
-    </task>
-    <task id="LOCAL-00034" summary="wallet program prot (menu, clear button and smth else have been added)">
-      <created>1642364841697</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1642364841698</updated>
-    </task>
-    <task id="LOCAL-00035" summary="wallet program prot (menu, clear button and smth else have been added)">
-      <created>1642366620656</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1642366620656</updated>
-    </task>
-    <task id="LOCAL-00036" summary="wallet program prot (menu, clear button and smth else have been added)">
-      <created>1642531656968</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1642531656968</updated>
     </task>
     <task id="LOCAL-00037" summary="placement of buttons and labels has been updated (relx/rely), next step - make def add_spent_money_to_category shorter, and add a window when person presses refill/withdraw">
       <created>1642536060520</created>
@@ -550,7 +528,28 @@
       <option name="project" value="LOCAL" />
       <updated>1645384786493</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="---">
+      <created>1646945302447</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1646945302448</updated>
+    </task>
+    <task id="LOCAL-00084" summary="---">
+      <created>1646946184717</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1646946184717</updated>
+    </task>
+    <task id="LOCAL-00085" summary="---">
+      <created>1647072261814</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1647072261814</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
